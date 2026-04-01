@@ -45,20 +45,16 @@ Project ini adalah dashboard analisis data yang dibuat menggunakan **Google Look
 
 ---
 
-## 📁 Struktur File
-```
-credit-card-report/
-│
-├── README.md
-└── Project_Data_Analyst_Credit_Card.jpg   # Screenshot dashboard
-```
-
----
-
 ## 📸 Preview Dashboard
+
+<details>
+<summary>🖼️ Klik untuk lihat Dashboard</summary>
+
 ![Dashboard Laporan Kartu Kredit](Project%20Data%20Analyst%20(Credit%20Card).jpg)
+
+</details>
 
 ---
 
 ## 🙋 Tentang Saya
-Dibuat dengan 💙 sebagai bagian dari **Program Data Analyst MySkill**
+Bagian dari Project Portofolio **Program Data Analyst MySkill**
