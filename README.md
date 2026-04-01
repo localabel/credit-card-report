@@ -50,6 +50,7 @@ Project ini adalah dashboard analisis data yang dibuat menggunakan **Google Look
 
 <details>
 <summary>🖼️ Klik untuk lihat Dashboard</summary>
+<br>
 
 ![Dashboard Laporan Kartu Kredit](Project%20Data%20Analyst%20(Credit%20Card).jpg)
 
