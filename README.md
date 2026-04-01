@@ -57,4 +57,4 @@ Project ini adalah dashboard analisis data yang dibuat menggunakan **Google Look
 ---
 
 ## 🙋 Tentang Saya
-Bagian dari Project Portofolio **Program Data Analyst MySkill**
+Dibuat untuk project portofolio **Program Data Analyst MySkill**
