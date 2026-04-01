@@ -56,7 +56,7 @@ credit-card-report/
 ---
 
 ## 📸 Preview Dashboard
-![Dashboard Laporan Kartu Kredit] Project Data Analyst (Credit Card).jpg
+![Dashboard Laporan Kartu Kredit](Project%20Data%20Analyst%20(Credit%20Card).jpg)
 
 ---
 
